@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4",
+    "name": "Firebase push",
+    "type": "http",
+    "address": "https://console.firebase.google.com",
+    "is_up": true,
+    "response_time_ms": 485,
+    "last_checked": "2025-06-04T10:18:32.971456828+02:00"
+  },
+  {
+    "id": "2",
+    "name": "Development API",
+    "type": "http",
+    "address": "https://beta.api.astrakit.cc/api/status",
+    "is_up": false,
+    "response_time_ms": 4,
+    "last_checked": "2025-06-04T10:18:32.338208732+02:00"
+  },
+  {
+    "id": "1",
+    "name": "Production API",
+    "type": "http",
+    "address": "https://api.astrakit.cc/api/status",
+    "is_up": true,
+    "response_time_ms": 66,
+    "last_checked": "2025-06-04T10:18:32.405113318+02:00"
+  },
+  {
+    "id": "3",
+    "name": "Main website",
+    "type": "http",
+    "address": "https://astrakit.cc",
+    "is_up": true,
+    "response_time_ms": 80,
+    "last_checked": "2025-06-04T10:18:32.485904065+02:00"
+  }
+]
